@@ -31,7 +31,7 @@ event-management-system/
 └── README.md
 ```
 
----
+---Updated2.0
 
 ## ⚡ Quick Start (Run Locally)
 
