@@ -114,6 +114,7 @@ Full API docs: import `docs/openapi.yaml` into **https://editor.swagger.io**
 | Member 1 | Project Manager & Backend Developer |
 | Member 2 | Frontend Developer |
 | Member 3 | UI/UX Designer & DB Admin |
+| Member 4 | Team management & Report generation
 
 **Institution:** IILM University, Greater Noida  
 **Programme:** B.Tech CSE, VI Semester  
